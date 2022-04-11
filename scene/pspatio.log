@@ -1,0 +1,1100 @@
+Exporter version: 6.4.4, Blender version: 2.83.2
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Carol\Documents\CENA.PORTOSEGURO\psprincipal\psprincipalbabylon\
+	Python World class constructor completed
+	processing begun of mesh:  ceu
+		processing begun of material:  ceu
+			processing texture imagem360
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1172
+		num normals        :  1172
+		num tangents       :  0
+		num uvs            :  2344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2112
+	processing begun of mesh:  predios03
+		processing begun of material:  predio03
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture predios03_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture predios03_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture predios03_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 39.5037 secs
+		num positions      :  979
+		num normals        :  979
+		num tangents       :  0
+		num uvs            :  1958
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  558
+	processing begun of mesh:  predioredondoint
+		processing begun of material:  paredebranca03
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture predioredondoint_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture predioredondoint_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 36.6835 secs
+		num positions      :  2567
+		num normals        :  2567
+		num tangents       :  0
+		num uvs            :  5134
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1237
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  pisoverm
+		processing begun of material:  pisoverm02.001
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture pisoverm_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture pisoverm_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture pisoverm_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 14.0881 secs
+		num positions      :  1851
+		num normals        :  1851
+		num tangents       :  0
+		num uvs            :  3702
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  922
+		WARNING: # of 0 area faces found:  2
+	processing begun of mesh:  pisopp
+		processing begun of material:  pedraportuguesa
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture pisopp_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture pisopp_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture pisopp_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 32.3 secs
+		num positions      :  2112
+		num normals        :  2112
+		num tangents       :  0
+		num uvs            :  4224
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  984
+		WARNING: # of 0 area faces found:  256
+	processing begun of mesh:  pisogaragem
+		processing begun of material:  pisogaragem
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture pisogaragem_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture pisogaragem_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 57.1249 secs
+		num positions      :  6
+		num normals        :  6
+		num tangents       :  0
+		num uvs            :  12
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  pisopp02
+		processing begun of material:  pedraportuguesa02
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture pisopp02_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture pisopp02_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture pisopp02_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  1 min, 6.7148 secs
+		num positions      :  172
+		num normals        :  172
+		num tangents       :  0
+		num uvs            :  344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  93
+	processing begun of mesh:  jardimvertical
+		processing begun of material:  grama
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  pisoverm
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  trail
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture jardimvertical_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture jardimvertical_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture jardimvertical_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 49.3951 secs
+		num positions      :  1756
+		num normals        :  1756
+		num tangents       :  0
+		num uvs            :  3512
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  745
+		WARNING: # of 0 area faces found:  2
+	processing begun of mesh:  esquadriasvidro
+		processing begun of material:  metal2
+		processing begun of material:  vidro
+		processing begun of multimaterial:  pspatio.Multimaterial#0
+		num positions      :  4879
+		num normals        :  4879
+		num tangents       :  0
+		num uvs            :  9758
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2016
+	processing begun of mesh:  balcao
+		processing begun of material:  balcao
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  granito
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture balcao_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture balcao_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture balcao_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 54.9631 secs
+		num positions      :  648
+		num normals        :  648
+		num tangents       :  0
+		num uvs            :  1296
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  296
+	processing begun of mesh:  pisopredio
+		processing begun of material:  marble
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture pisopredio_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture pisopredio_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture pisopredio_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  1 min, 10.125 secs
+		num positions      :  145
+		num normals        :  145
+		num tangents       :  0
+		num uvs            :  290
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  90
+	processing begun of mesh:  rodape
+		processing begun of material:  marblerodape
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture rodape_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture rodape_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture rodape_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 7.0823 secs
+		num positions      :  828
+		num normals        :  828
+		num tangents       :  0
+		num uvs            :  1656
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  314
+	processing begun of mesh:  predioforro
+		processing begun of material:  paredebranca
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture predioforro_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture predioforro_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 26.1192 secs
+		num positions      :  677
+		num normals        :  677
+		num tangents       :  0
+		num uvs            :  1354
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  299
+	processing begun of mesh:  pergoladometal
+		processing begun of material:  metalbranco02
+		processing begun of material:  vidro
+		registered as also a user of material:  vidro
+		processing begun of multimaterial:  pspatio.Multimaterial#1
+		num positions      :  3411
+		num normals        :  3411
+		num tangents       :  0
+		num uvs            :  6822
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2152
+	processing begun of mesh:  garagem
+		processing begun of material:  concreto02
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture garagem_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture garagem_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture garagem_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 52.722 secs
+		num positions      :  603
+		num normals        :  603
+		num tangents       :  0
+		num uvs            :  1206
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  256
+		WARNING: # of 0 area faces found:  1
+	processing begun of mesh:  banco
+		processing begun of material:  concreto
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture banco_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture banco_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture banco_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 12.2302 secs
+		num positions      :  448
+		num normals        :  448
+		num tangents       :  0
+		num uvs            :  896
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  256
+	processing begun of mesh:  fachada
+		processing begun of material:  paredeazul
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture fachada_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture fachada_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture fachada_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  1 min, 6.1494 secs
+		num positions      :  363
+		num normals        :  363
+		num tangents       :  0
+		num uvs            :  726
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  373
+	processing begun of mesh:  colisoes
+		processing begun of material:  colisao
+		num positions      :  724
+		num normals        :  724
+		num tangents       :  0
+		num uvs            :  1448
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  305
+	processing begun of mesh:  cadeiras
+		processing begun of material:  metalbranco
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  tecido
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  laca
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture cadeiras_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture cadeiras_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture cadeiras_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 37.2863 secs
+		Custom split normals with tangents being used
+		num positions      :  2736
+		num normals        :  2736
+		num tangents       :  10944
+		num uvs            :  5472
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1272
+	processing begun of mesh:  muro
+		processing begun of material:  muro
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture muro_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture muro_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture muro_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 44.7634 secs
+		num positions      :  151
+		num normals        :  151
+		num tangents       :  0
+		num uvs            :  302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  90
+	processing begun of mesh:  esquadriasaud
+		processing begun of material:  vidroauditorio
+			processing texture auditoriops
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  balizadores
+		processing begun of material:  luz
+		processing begun of material:  metal2
+		registered as also a user of material:  metal2
+		processing begun of multimaterial:  pspatio.Multimaterial#2
+		num positions      :  6974
+		num normals        :  6974
+		num tangents       :  0
+		num uvs            :  13948
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3520
+	processing begun of mesh:  janelas
+		processing begun of material:  metal2
+		processing begun of material:  vidro
+		registered as also a user of material:  metal2
+		registered as also a user of material:  vidro
+		processing begun of multimaterial:  pspatio.Multimaterial#3
+		num positions      :  1557
+		num normals        :  1557
+		num tangents       :  0
+		num uvs            :  3114
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1062
+	processing begun of mesh:  patio
+		processing begun of material:  pisoverm02
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture patio_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture patio_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture patio_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 20.7098 secs
+		num positions      :  2808
+		num normals        :  2808
+		num tangents       :  0
+		num uvs            :  5616
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1250
+	processing begun of mesh:  gramainf
+		processing begun of material:  grama
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  pisoverm
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  trail
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture gramainf_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture gramainf_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture gramainf_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 35.3057 secs
+		num positions      :  388
+		num normals        :  388
+		num tangents       :  0
+		num uvs            :  776
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  158
+	processing begun of mesh:  patiograma
+		processing begun of material:  grama02
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture patiograma_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture patiograma_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture patiograma_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 32.5579 secs
+		num positions      :  604
+		num normals        :  604
+		num tangents       :  0
+		num uvs            :  1208
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  258
+	processing begun of mesh:  pisopp03
+		processing begun of material:  pedraportuguesa.03
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture pisopp03_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture pisopp03_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture pisopp03_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 26.313 secs
+		num positions      :  122
+		num normals        :  122
+		num tangents       :  0
+		num uvs            :  244
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  77
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  prediosjanelas
+		processing begun of material:  janelas
+			processing texture janelas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1865
+		num normals        :  1865
+		num tangents       :  0
+		num uvs            :  3730
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  866
+	processing begun of mesh:  predios01
+		processing begun of material:  predio
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture predios01_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture predios01_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture predios01_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 30.9693 secs
+		num positions      :  1013
+		num normals        :  1013
+		num tangents       :  0
+		num uvs            :  2026
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  604
+	processing begun of mesh:  predios02
+		processing begun of material:  predio02
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture predios02_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture predios02_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture predios02_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 38.66 secs
+		num positions      :  832
+		num normals        :  832
+		num tangents       :  0
+		num uvs            :  1664
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  480
+	processing begun of mesh:  predioredondo
+		processing begun of material:  paredebranca02
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture predioredondo_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture predioredondo_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+					WARNING: Texture is not mapped as UV or UV2, assigned 1
+			bake time:  0 min, 34.0272 secs
+		num positions      :  1443
+		num normals        :  1443
+		num tangents       :  0
+		num uvs            :  2886
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  711
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  arbusto0201
+		processing begun of material:  arbusto
+			processing texture arbustofolhas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  900
+		num normals        :  900
+		num tangents       :  0
+		num uvs            :  1800
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  540
+	processing begun of mesh:  arbusto2
+		processing begun of material:  roxa
+			processing texture arbustofolhas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2880
+		num normals        :  2880
+		num tangents       :  0
+		num uvs            :  5760
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1728
+	processing begun of mesh:  arbusto3
+		processing begun of material:  arbusto
+		registered as also a user of material:  arbusto
+		num positions      :  2520
+		num normals        :  2520
+		num tangents       :  0
+		num uvs            :  5040
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1512
+	processing begun of mesh:  arbustocurva
+		processing begun of material:  pingodeouro
+		num positions      :  10242
+		num normals        :  10242
+		num tangents       :  0
+		num uvs            :  20484
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3414
+	processing begun of mesh:  arbustoesc01
+		processing begun of material:  folhas03
+			processing texture arbustofolhas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  36270
+		num normals        :  36270
+		num tangents       :  0
+		num uvs            :  72540
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12090
+	processing begun of mesh:  arbustofundo
+		processing begun of material:  arbusto
+		registered as also a user of material:  arbusto
+		num positions      :  4854
+		num normals        :  4854
+		num tangents       :  0
+		num uvs            :  9708
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2264
+	processing begun of mesh:  arbustofundos
+		processing begun of material:  pingodeouro
+		registered as also a user of material:  pingodeouro
+		num positions      :  13980
+		num normals        :  13980
+		num tangents       :  0
+		num uvs            :  27960
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4660
+	processing begun of mesh:  arbustolat
+		processing begun of material:  arbusto
+		registered as also a user of material:  arbusto
+		num positions      :  1620
+		num normals        :  1620
+		num tangents       :  0
+		num uvs            :  3240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  972
+	processing begun of mesh:  arbustopatio
+		processing begun of material:  folhas03
+		registered as also a user of material:  folhas03
+		num positions      :  31470
+		num normals        :  31470
+		num tangents       :  0
+		num uvs            :  62940
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10490
+	processing begun of mesh:  arbustotriang
+		processing begun of material:  pingodeouro
+		registered as also a user of material:  pingodeouro
+		num positions      :  8916
+		num normals        :  8916
+		num tangents       :  0
+		num uvs            :  17832
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2972
+	processing begun of mesh:  arbustovolta
+		processing begun of material:  pingodeouro
+		registered as also a user of material:  pingodeouro
+		num positions      :  63402
+		num normals        :  63402
+		num tangents       :  0
+		num uvs            :  126804
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  21134
+	processing begun of mesh:  arvores
+		processing begun of material:  troncobranco
+		processing begun of material:  folhas
+		processing begun of material:  tronco
+			processing texture Foliage_Bark_01_Normal_01
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture coqueirotronco
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture arbustofolhas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture arvoretronconormal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture arvoretronco
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  pspatio.Multimaterial#4
+		num positions      :  13402
+		num normals        :  13402
+		num tangents       :  0
+		num uvs            :  26804
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13808
+	processing begun of mesh:  bannerrecepcao
+		processing begun of material:  bannerrecepcao6x1
+			processing texture bemvindos6x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  banner1patio1x2
+		processing begun of material:  banner1patio1x2
+			processing texture banner1entrada2x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  banner1x3
+		processing begun of material:  banner2x1esq
+			processing texture bannerverticalesquerda3x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  totemmapa
+		processing begun of material:  metal2
+		processing begun of material:  totemmapa
+		registered as also a user of material:  metal2
+			processing texture mapainicial16x9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  pspatio.Multimaterial#5
+		num positions      :  131
+		num normals        :  131
+		num tangents       :  0
+		num uvs            :  262
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  bannerauditorio2x1
+		processing begun of material:  bannerindicativo
+			processing texture mapaindica__olugares2x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  banner1x302
+		processing begun of material:  banner2x1dir
+			processing texture bannerverticaldireita3x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  botaoentrar
+		processing begun of material:  botaosair
+			processing texture jointheroomnew1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  botaoentrar03
+		processing begun of material:  botaosair
+		registered as also a user of material:  botaosair
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  botaoentrar02
+		processing begun of material:  botaosair
+		registered as also a user of material:  botaosair
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  banner1patio1x202
+		processing begun of material:  banner1patio1x2
+		registered as also a user of material:  banner1patio1x2
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  banner2patio1x2
+		processing begun of material:  banner2patio1x2
+			processing texture banner2entrada2x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  banner2patio1x202
+		processing begun of material:  banner2patio1x2
+		registered as also a user of material:  banner2patio1x2
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  banner3patio1x2
+		processing begun of material:  banner3patio1x2
+			processing texture banner3entrada2x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  banner3patio1x202
+		processing begun of material:  banner3patio1x2
+		registered as also a user of material:  banner3patio1x2
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  bandeiraalemanha
+		processing begun of material:  alemanha
+			processing texture alemanha
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  1089
+		num normals        :  1089
+		num tangents       :  0
+		num uvs            :  2178
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2048
+	processing begun of mesh:  bandeirabrasil
+		processing begun of material:  brasil
+			processing texture brasil
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  1089
+		num normals        :  1089
+		num tangents       :  0
+		num uvs            :  2178
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2048
+	processing begun of mesh:  bandeiraps
+		processing begun of material:  ps
+			processing texture logo_porto_seguro
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  1089
+		num normals        :  1089
+		num tangents       :  0
+		num uvs            :  2178
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2048
+	processing begun of mesh:  mastro
+		WARNING: No materials have been assigned: 
+		num positions      :  4521
+		num normals        :  4521
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2064
+========= Writing of JSON file started =========
+	writing mesh:  ceu
+	writing mesh:  predios03
+	writing mesh:  predioredondoint
+	writing mesh:  pisoverm
+	writing mesh:  pisopp
+	writing mesh:  pisogaragem
+	writing mesh:  pisopp02
+	writing mesh:  jardimvertical
+	writing mesh:  esquadriasvidro
+	writing mesh:  balcao
+	writing mesh:  pisopredio
+	writing mesh:  rodape
+	writing mesh:  predioforro
+	writing mesh:  pergoladometal
+	writing mesh:  garagem
+	writing mesh:  banco
+	writing mesh:  fachada
+	writing mesh:  colisoes
+	writing mesh:  cadeiras
+	writing mesh:  muro
+	writing mesh:  esquadriasaud
+	writing mesh:  balizadores
+	writing mesh:  janelas
+	writing mesh:  patio
+	writing mesh:  gramainf
+	writing mesh:  patiograma
+	writing mesh:  pisopp03
+	writing mesh:  prediosjanelas
+	writing mesh:  predios01
+	writing mesh:  predios02
+	writing mesh:  predioredondo
+	writing mesh:  arbusto0201
+	writing mesh:  arbusto2
+	writing mesh:  arbusto3
+	writing mesh:  arbustocurva
+	writing mesh:  arbustoesc01
+	writing mesh:  arbustofundo
+	writing mesh:  arbustofundos
+	writing mesh:  arbustolat
+	writing mesh:  arbustopatio
+	writing mesh:  arbustotriang
+	writing mesh:  arbustovolta
+	writing mesh:  arvores
+	writing mesh:  bannerrecepcao
+	writing mesh:  banner1patio1x2
+	writing mesh:  banner1x3
+	writing mesh:  totemmapa
+	writing mesh:  bannerauditorio2x1
+	writing mesh:  banner1x302
+	writing mesh:  botaoentrar
+	writing mesh:  botaoentrar03
+	writing mesh:  botaoentrar02
+	writing mesh:  banner1patio1x202
+	writing mesh:  banner2patio1x2
+	writing mesh:  banner2patio1x202
+	writing mesh:  banner3patio1x2
+	writing mesh:  banner3patio1x202
+	writing mesh:  bandeiraalemanha
+	writing mesh:  bandeirabrasil
+	writing mesh:  bandeiraps
+	writing mesh:  mastro
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  14 min, 55.849 secs
